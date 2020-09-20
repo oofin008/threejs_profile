@@ -1,3 +1,4 @@
-#This project is for fun
-##built with Passion by Santi L.
+# This is an ThreeJS project
+## built with passion by Santi L
+
 
