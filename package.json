@@ -1,0 +1,9 @@
+{
+  "name": "threejs_profile",
+  "version": "1.0.0",
+  "description": "santi resume built using ReactJS and ThreeJS",
+  "main": "index.js",
+  "author": "Santi Liwsakphaboon",
+  "license": "MIT",
+  "private": true
+}
